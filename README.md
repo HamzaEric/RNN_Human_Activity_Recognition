@@ -1,0 +1,1 @@
+# RNN_Human_Activity_Recognition
